@@ -1,4 +1,4 @@
-# TAXII 서버 구축
+# STIX DATA COLLECTOR 엔진 구축
 
 MITRE ATT&CK 데이터를 기반으로 동작하는 TAXII 서버 구축 엔진
 Go 언어(Golang)로 직접 구현, MITRE의 `cti` 저장소를 주기적으로 동기화
